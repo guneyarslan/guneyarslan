@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Hasret Güney Arslan
+- 👀 I’m interested in Back-end Development and Blockchain Development
+- 🌱 I’m currently learning Back-end with Java
+- 💞️ I’m looking to collaborate on studying programming languages Java, Javascript, Python.
+- 📫 How to reach me: guneyarslan95@gmail.com or Australi#8951 at discord.
