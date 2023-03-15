@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Hasret Güney Arslan. I'm living in Istanbul/Turkey. I started to studying about development.
 - 👀 I’m interested in Back-end Development for now. But i want to learn about IoT too.
-- 🌱 I’m currently learning Back-end with Java and C#. I'm using PostgreSQL database in my studying.
+- 🌱 I’m currently learning Back-end with Java and C#. I'm using PostgreSQL and MSSQL database in my studying.
 - 💞️ I’m looking to collaborate on studying programming languages Java, Javascript, Python and C#.
 - 📫 How to reach me: guneyarslan95@gmail.com or Australi#8951 at discord.
