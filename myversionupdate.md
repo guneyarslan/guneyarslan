@@ -1,3 +1,4 @@
+##My Version Update Log <br>
 This is an update log for every important thing I've done on this topic since I got into development. People are just like an app. SDLC rules also apply to people who want to improve themselves. <br><br>
 
 v00: I already knew HTML and CSS long ago. I just learned about the new tags that come with HTML5.<br>
@@ -15,5 +16,6 @@ v11: I learned a lot of alghoritms but i still don't know how to use it in real 
 v12: I made some experiments on the Northwind database dataset with MS Sql. Although the codes seem very easy, operating them really requires knowledge.<br>
 v13: I learned a lot of things about "OOP". I really loved the Polymorphism and Inheritance stuffs.<br>
 v14: I've done some research on "agile" software development and SCRUM in particular. I think it is a good way to satisfy the customer and to understand the work received correctly.<br>
+
 
 <br><br>* It started with v00 on 10/2022 and continues to evolve. Every important update will be shared here.
