@@ -1,4 +1,4 @@
-##My Version Update Log <br>
+## My Version Update Log <br>
 This is an update log for every important thing I've done on this topic since I got into development. People are just like an app. SDLC rules also apply to people who want to improve themselves. <br><br>
 
 v00: I already knew HTML and CSS long ago. I just learned about the new tags that come with HTML5.<br>
