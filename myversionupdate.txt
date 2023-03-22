@@ -1,0 +1,17 @@
+v00: Already knew HTML, CSS. I learned new HTML5 tags.
+v01: I started to learn Java, C# and Python syntax.
+v02: Already learned Python syntax because i understand English.
+v03: Learning logics of some "Alghoritms".
+v04: Learned Java and C# syntax in the same time i guess, because they are similar.
+v05: I checked Java and C# knowledge, I still confuse the two. I think similarity is not that good.
+v06: Looking some SQL and database logic. Tried some database queries with MSSQL in SQL and T-SQL.
+v07: Started to create a website template with Bootstrap5.
+v08: I finished my website template in 3-4 days. (With little help from Chat-GPT)
+v09: I used a little javascript codes in my website so i am aware i need to learn javascript as well.
+v10: I started to learn Javascript but it looks hard for me, well i already know Java and C#, because of that
+i understand the logic behind the code, but writing it from zero is something different.
+v11: I learned a lot of alghoritms but i still don't know how to use it in real life. I think i need to do more project.
+v12: I'm really trying to do something in MS SQL, it's ok to do with UI but in codes it looks complicated.
+These codes are even much more easier to understand than other languages but idk i think it's not my interest.
+v13: I learned a lot of things about "OOP", i liked polymorphism and implements i can't wait to see some examples about them.
+v14: OK, i checked some examples about OOP and i think i can wait a little more. It's still early lol.
