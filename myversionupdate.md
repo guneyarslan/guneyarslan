@@ -17,5 +17,6 @@ This is an update log for every important thing I've done on this topic since I 
 <b>v12:</b> I made some experiments on the Northwind database dataset with MS Sql. Although the codes seem very easy, operating them really requires knowledge.<br>
 <b>v13:</b> I learned a lot of things about "OOP". I really loved the Polymorphism and Inheritance stuffs.<br>
 <b>v14:</b> I've done some research on "agile" software development and SCRUM in particular. I think it is a good way to satisfy the customer and to understand the work received correctly.<br>
+<b>v15:</b> I learned AI tools. I'm doing everything with ai. Started from 2023 February and still going...<br>
 
 <br><br>* It started with v00 on 10/2022 and continues to evolve. Every important update will be shared here.
