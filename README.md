@@ -1,3 +1,3 @@
-- 👋 Hi, my name is Hasret Güney Arslan. I'm living in Istanbul/Turkey. I am a front-end web developer with a passion for creating dynamic and responsive websites. I began my journey as a web developer in October 2022 and have since honed my skills in HTML, CSS, and JavaScript.<br><br> I am also experienced in building responsive layouts that are optimized for mobile devices.In my work, I prioritize clean and well-organized code that is easy to maintain and update. I am also committed to staying up-to-date with the latest trends and technologies in web development, and am constantly learning and expanding my skillset.<br><br> I am a strong collaborator and enjoy working in a team environment, as well as independently. I am excited to continue my journey as a web developer and am eager to bring my skills and expertise to a new project or team.<br><br>
-- You can see the paths that I followed and my development in my "myversionupdates.md".<br><br>
+- Just vibe coding anymore. I replaced myself with AI already.
+
 - 📫 How to reach me: guneyarslan95@gmail.com or Australi#8951 on discord.
